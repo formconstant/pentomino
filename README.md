@@ -2,9 +2,6 @@
 
 Sonification Visualization
 
-[![GTK](icon.png)](https://www.gtk.org/)
-[![GLIB](icon.png)](https://developer.gnome.org/glib/)
-
 
 ### Requirements
 
