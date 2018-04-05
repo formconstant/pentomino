@@ -11,6 +11,7 @@ Deps
 - http://web.bentley.edu/empl/c/ncarter/vgt/gallery.html
 - https://notabug.org/koz.ross/awesome-c/src/master/README.md 
 - https://ompl.kavrakilab.org/
+- https://github.com/samaaron/sonic-pi
 
 1. https://en.wikipedia.org/wiki/Form_constant
 2. https://en.wikipedia.org/wiki/Visual_perception
