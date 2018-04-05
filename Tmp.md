@@ -12,6 +12,7 @@ Deps
 - https://notabug.org/koz.ross/awesome-c/src/master/README.md 
 - https://ompl.kavrakilab.org/
 - https://github.com/samaaron/sonic-pi
+- http://deferred.io/2015/10/27/visualizing-linux-kernel-call-graphs.html
 
 1. https://en.wikipedia.org/wiki/Form_constant
 2. https://en.wikipedia.org/wiki/Visual_perception
