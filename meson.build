@@ -1,6 +1,7 @@
-project('semanggi', 'c')
-gtk3dep = dependency('gtk+-3.0')
-glib2dep = dependency('glib-2.0')
+project('pentomino', 'c')
+gtk3= dependency('gtk+-3.0')
+glib2 = dependency('glib-2.0')
+igraph = dependency('igraph')
 src = ['main.c']
-executable('semanggi', [src], dependencies : [gtk3dep, glib2dep])
+executable('pentomino', [src], dependencies : [gtk3, glib2, igraph])
 
