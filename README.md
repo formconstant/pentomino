@@ -4,6 +4,8 @@ Initial
 
 ## 
 
+- http://web.bentley.edu/empl/c/ncarter/vgt/gallery.html
+
 1. https://en.wikipedia.org/wiki/Form_constant
 2. https://en.wikipedia.org/wiki/Visual_perception
 3. https://en.wikipedia.org/wiki/Tessellation
