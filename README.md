@@ -2,8 +2,8 @@
 
 Sonification Visualization
 
-[![GTK](https://www.gtk.org/images/header-logo.png)](https://www.gtk.org/)
-[![GLIB](https://developer.gnome.org/skin/gnome-logo-devcenter.png)](https://developer.gnome.org/glib/)
+[![GTK](icon.png)](https://www.gtk.org/)
+[![GLIB](icon.png)](https://developer.gnome.org/glib/)
 
 
 ### Requirements
