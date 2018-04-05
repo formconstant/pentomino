@@ -9,9 +9,6 @@ Deps
 - http://igraph.org/c/doc/
 - https://www.jasondavies.com/factorisation-diagrams/
 - http://web.bentley.edu/empl/c/ncarter/vgt/gallery.html
-## 
-
-- http://web.bentley.edu/empl/c/ncarter/vgt/gallery.html
 - https://notabug.org/koz.ross/awesome-c/src/master/README.md 
 
 1. https://en.wikipedia.org/wiki/Form_constant
