@@ -5,7 +5,7 @@
 - External Applications 
 
 ```
-# dnf install cflow ctags
+# dnf install cflow ctags cscope
 ```
 
 - Libraries and Build System
