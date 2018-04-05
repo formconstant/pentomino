@@ -2,6 +2,14 @@
 
 ### Requirements
 
+- External Applications 
+
+```
+# dnf install cflow ctags
+```
+
+- Libraries and Build System
+
 ```
 # dnf install meson
 # dnf install glib2-devel
