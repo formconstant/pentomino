@@ -12,6 +12,7 @@
 
 ```
 # dnf install meson
+# dnf install igraph-devel 
 # dnf install glib2-devel
 # dnf install gtk3-devel
 ```
