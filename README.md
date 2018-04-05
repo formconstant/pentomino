@@ -40,3 +40,9 @@ $ ninja -C build/ install
 4. https://en.wikipedia.org/wiki/Visual_music
 5. https://en.wikipedia.org/wiki/Music_visualization
 6. https://en.wikipedia.org/wiki/Psychedelic_art
+
+## License
+
+NULL™ Free as an AIR License
+
+Free as an AIR License is a free of charge - unconditional grant; for any person to deal with the material without any restriction and/or limitation.
